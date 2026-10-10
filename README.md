@@ -16,9 +16,9 @@ no Android você não terá por enquanto o acesso do menu mas você poderá joga
 Paula  (para a formação do APK)
 Lukizin (ajuda para colocar skins)
 Alvito (para gerar os códigos )
-Nati (a colocar oenu no computador 💻)
+Nati (a colocar o menu no computador 💻)
 
-# comunidade em apoio 
+# comunidade em  apoio 
 
 para a comunidade nos ajudar publique bugs no nosso discord e fale como eles aconteceram detalhadamente 
 
