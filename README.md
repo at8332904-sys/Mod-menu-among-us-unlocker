@@ -17,3 +17,9 @@ Paula  (para a formação do APK)
 Lukizin (ajuda para colocar skins)
 Alvito (para gerar os códigos )
 Nati (a colocar oenu no computador 💻)
+
+# comunidade em apoio 
+
+para a comunidade nos ajudar publique bugs no nosso discord e fale como eles aconteceram detalhadamente 
+
+o mod estará disponível só nos aparelhos como PC e Android infelizmente não temos nenhuma chance para colocar no iPhone
