@@ -5,7 +5,7 @@ Mod menu que desbloqueia todas as skins para o among us
 
 💻 computadores 
 
-no computador você irá baixar tipo o Malum Menu onde você vai poder jogar com trapassas detalhe não copiamos eles
+no computador você irá baixar tipo o Malum Menu onde você vai poder jogar com modificações como trapaça detalhe não copiamos eles
 
 Android 📱 
 
