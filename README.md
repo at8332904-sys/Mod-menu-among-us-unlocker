@@ -3,4 +3,8 @@ Mod menu que desbloqueia todas as skins para o among us
 
 # Como instalar?
 
-computador:
+💻 computador 
+
+1. baixe o zip
+
+2. 
