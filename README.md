@@ -24,7 +24,6 @@ para a comunidade nos ajudar publique bugs no nosso discord e fale como eles aco
 
 o mod estará disponível só nos aparelhos como PC e Android infelizmente não temos nenhuma chance para colocar no iPhone
 
-# skeld.Net
-meio curioso mas sim nós conseguimos colocar o mod para funcionar para no servidor skeld.net mesmo que não temos permissão totalmente legal para isso mas colocamos foi um grande feito para nós e tentaremos implementar o Extra roles de notHunter101 e tentaremos fazer o máximo para habilitar coisas novas como o mega menu para o Android 
+se quiser buscar mais informações entre no nosso discord:https://discord.gg/fMZRK66qk
 
 217modG
